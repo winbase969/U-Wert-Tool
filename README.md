@@ -32,3 +32,5 @@ npm run dev
 - prüfen, ob der Build erfolgreich war und ein Deployment erzeugt wurde
 - sicherstellen, dass Vercel das Framework als `Next.js` erkannt hat
 - bei einem Monorepo nicht versehentlich ein leeres Unterverzeichnis auswählen
+
+- prüfen, ob TypeScript-Pfade/Aliasse korrekt aufgelöst werden oder relative Imports verwenden

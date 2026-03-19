@@ -8,7 +8,7 @@ import {
   quickGuide,
   surfaceResistances,
   type ComponentType,
-} from '@/lib/uvalue-data';
+} from '../lib/uvalue-data';
 
 type Layer = {
   id: string;

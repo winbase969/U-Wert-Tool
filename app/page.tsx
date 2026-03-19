@@ -1,4 +1,4 @@
-import { UValueTool } from '@/components/u-value-tool';
+import { UValueTool } from '../components/u-value-tool';
 
 const faqSchema = {
   '@context': 'https://schema.org',
